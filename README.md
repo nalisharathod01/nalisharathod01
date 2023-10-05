@@ -12,7 +12,7 @@
 
 <!-- Portfolio and Contact Information -->
 <p align="center">
-  <a href="https://nalisharathod.com/" target="_blank">Explore My Portfolio</a> | ✉️ <a href="mailto:rathodnalisha01@gmail.com">Contact Me</a>
+  <a href="https://nalisharathod.com/" target="_blank">Explore My Portfolio</a> | ✉️ <a href="mailto:rathodnalisha01@gmail.com">Contact Me</a> | 📄 <a href="https://nalisharathod.com/wp-content/uploads/2023/08/NALISHA_RATHOD.pdf" target="_blank">Know about my experiences</a>
 </p>
 
 <!-- About Me -->
@@ -26,11 +26,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nalisha-rathod-01/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
-<h3 align="center">Resume</h3>
-<p align="center">
-📄 Know about my experiences [Resume](https://nalisharathod.com/wp-content/uploads/2023/08/NALISHA_RATHOD.pdf){:target="_blank"}
- </p>
  
 <!-- Skills -->
 <h3 align="center">Skills</h3>
