@@ -27,6 +27,11 @@
   <a href="https://www.linkedin.com/in/nalisha-rathod-01/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Resume</h3>
+<p align="center">
+📄 Know about my experiences [Resume](https://nalisharathod.com/wp-content/uploads/2023/08/NALISHA_RATHOD.pdf){:target="_blank"}
+ </p>
+ 
 <!-- Skills -->
 <h3 align="center">Skills</h3>
 <p align="center">
