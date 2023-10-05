@@ -12,7 +12,7 @@
 
 <!-- Portfolio and Contact Information -->
 <p align="center">
-  <a href="https://nalisharathod.com/" target="_blank">Explore My Portfolio</a> | ✉️ <a href="mailto:rathodnalisha01@gmail.com">Contact Me</a> | 📄 <a href="https://nalisharathod.com/wp-content/uploads/2023/08/NALISHA_RATHOD.pdf" target="_blank">Know about my experiences</a>
+ 👨‍💻 <a href="https://nalisharathod.com/" target="_blank">Explore My Portfolio</a> | ✉️ <a href="mailto:rathodnalisha01@gmail.com">Contact Me</a> | 📄 <a href="https://nalisharathod.com/wp-content/uploads/2023/08/NALISHA_RATHOD.pdf" target="_blank">Know about my experiences</a>
 </p>
 
 <!-- About Me -->
