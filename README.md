@@ -8,7 +8,7 @@
 <h3 align="center">Frontend Alchemist | React Ringleader | UI Architect</h3>
 
 <!-- Current Job -->
-<p align="center">🚀 Crafting pixel-perfect digital experiences at <a href="https://www.nttdata.com/" target="_blank">Launch By NTT Data</a></p>
+<p align="center">🚀 Crafting pixel-perfect digital experiences </p>
 
 <!-- Portfolio and Contact Information -->
 <p align="center">
